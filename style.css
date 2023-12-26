@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.mother-container {
+  height: 100vh;
+}
+
+.top {
+  height: 15%;
+  width: 100%;
+  background-color: aquamarine;
+}
+
+.bottom {
+  height: 15%;
+  width: 100%;
+  background-color: aquamarine;
+}
+
+.middle {
+  height: 70vh;
+  display: flex;
+}
+
+.left {
+  background-color: tomato;
+  width: 30%;
+}
+
+.centre {
+  background-color: pink;
+  width: 100%;
+}
+
+.right {
+  background-color: tomato;
+  width: 30%;
+}
